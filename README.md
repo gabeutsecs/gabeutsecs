@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">A student python-enthusiast</h3>
+<h3 align="center">A student python/java-enthusiast</h3>
 
-- 🌱 I’m currently learning **Python, SQL, Pandas, Sklearn, Seaborn**
+- 🌱 I’m currently learning **Python, Java, SQL, Pandas, Sklearn, Seaborn**
 
 - ⚡ Fun fact **Amogus**
 
